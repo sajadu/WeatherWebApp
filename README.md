@@ -1,1 +1,1 @@
-Wheather Updates Web App
+Weather Updates Web App
