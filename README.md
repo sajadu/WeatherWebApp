@@ -1,3 +1,4 @@
+
 <h1>React Weather App 🌤️</h1>
     <p>
         This project is a simple and clean responsive single-page application built using <strong>React.js</strong>.
@@ -18,7 +19,7 @@
         as it provides better compatibility for this project. Newer Node.js versions may have limitations for running this app.
     </p>
     
-<p>You can download Node.js v16 from the official Node.js website. Here’s the link: <a href="[https://xyz.com](https://nodejs.org/download/release/latest-v16.x/)" target="_blank">Node.js v16</a></p>
+<p>You can download Node.js v16 from the official Node.js website. Here’s the link: <a href="https:/https://nodejs.org/download/release/latest-v16.x/)" target="_blank">Node.js v16</a></p>
 
  
 
