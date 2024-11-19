@@ -17,9 +17,10 @@
         To run the project on your laptop or PC, it is recommended to use <strong>Node.js v16</strong>, 
         as it provides better compatibility for this project. Newer Node.js versions may have limitations for running this app.
     </p>
-    <p>Download Node.js v16 here: <a href="[https://xyz.com](https://nodejs.org/download/release/latest-v16.x/)" target="_blank">Node.js v16</a></p>
+    
+<p>You can download Node.js v16 from the official Node.js website. Here’s the link: <a href="[https://xyz.com](https://nodejs.org/download/release/latest-v16.x/)" target="_blank">Node.js v16</a></p>
 
-You can download Node.js v16 from the official Node.js website. Here’s the link:
+ 
 
 
   <h2>Installation</h2>
